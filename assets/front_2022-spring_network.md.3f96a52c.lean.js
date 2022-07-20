@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.30f3f706.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"front/2022-spring/network.md"}'),n={name:"front/2022-spring/network.md"};function o(a,s,c,p,i,_){return r(),t("div")}var m=e(n,[["render",o]]);export{f as __pageData,m as default};
